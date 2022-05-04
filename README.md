@@ -8,6 +8,19 @@
 - 📫 How to reach me..
 - LinkedIN: https://www.linkedin.com/in/abhisheka-b-343125135/
 
+## Resume
+
+<embed src="/Resume/Resume-latest-5-new.pdf" type="application/pdf" />
+
+<object data="/Resume/Resume-latest-5-new.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/Resume/Resume-latest-5-new.pdf">
+        <p>Download pdf here: <a href="https://github.com/Abhishek-DataWorm/Abhishek-DataWorm/blob/main/Resume/Resume-latest-5-new.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<img src="Resume/resume.png" width="600" height="900">
+
+
 <!---
 Abhishek-DataWorm/Abhishek-DataWorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
